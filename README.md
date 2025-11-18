@@ -106,7 +106,7 @@ Each repo should include:
 ## 📈 Recommended README Badges (paste to your profile README)
 
 ```
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawangiri3&show_icons=true&theme=default)
+![Pawan's GitHub stats][(https://github-readme-stats.vercel.app/api?username=pawangiri3&show_icons=true&theme=default](https://github.com/pawangiri3/pawangiri3/edit/main/README.md))
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawangiri3&layout=compact&theme=default)
 ```
 
@@ -129,4 +129,4 @@ Each repo should include:
 
 
 
-*Want the README content exported as `README.md` ready to paste? I can generate a single-file copy for you.*
+
