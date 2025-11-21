@@ -125,7 +125,7 @@ Each repo should include:
 <p align="center">
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/other/certified-kubernetes-administrator/certified-kubernetes-administrator-color.svg" width="180" title="Certified Kubernetes Administrator" />
 </p>
-
+https://www.credly.com/badges/742b47a7-b541-443f-8594-808ce1fac53a
 * **CKA – Certified Kubernetes Administrator** (CNCF)
 * **Azure & DevOps Certifications (In-progress)**
 
