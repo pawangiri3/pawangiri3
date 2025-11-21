@@ -1,6 +1,6 @@
 # Pawan Kumar — DevOps / SRE Engineer
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" title="Docker" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" title="Kubernetes" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" title="Terraform" />
@@ -9,124 +9,129 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" title="Git" />
 </p>
 
-> Professional DevOps Engineer focusing on cloud-native infrastructure, automation, and zero-downtime deployments.
+## 🚀 Profile Summary
+
+DevOps Engineer with 9+ years of experience in cloud-native deployments, Kubernetes orchestration, infrastructure automation, and CI/CD engineering. Skilled in Azure, Terraform, Docker, ArgoCD, and telecom-grade CNF zero‑downtime migrations.
 
 ---
 
 ## 🔭 About Me
 
-I build and operate resilient, automated infrastructure and CI/CD pipelines for production systems. My focus areas are cloud (Azure), containers & orchestration, infrastructure-as-code, observability, and release automation.
+I architect, automate, and operate resilient cloud infrastructure and CI/CD pipelines for production systems.
 
-* Location: India
-* Role: DevOps / SRE Engineer
-* GitHub: **pawangiri3**
+**Location:** India
+**Role:** DevOps / SRE Engineer
+**GitHub:** **pawangiri3**
 
 ---
 
 ## 🛠️ Core Skills
 
-### 🧩 Cloud & Platforms
+### ☁️ Cloud & Platforms
 
-* ☁️ **Azure**
+* **Azure**
 
 ### 🐳 Containers & Orchestration
 
-* 🐳 **Docker**
-* ☸️ **Kubernetes (K8s)**
-* 🎛️ **Helm**
-* 🔁 **ArgoCD**
+* **Docker**
+* **Kubernetes (K8s)**
+* **Helm**
+* **ArgoCD (GitOps)**
 
 ### 🏗️ Infrastructure as Code
 
-* 🪜 **Terraform**
+* **Terraform**
 
-### 🔄 CI / CD
+### 🔄 CI/CD
 
-* 🚀 **Azure Pipelines**
-* 🛠️ **GitHub Actions**
+* **Azure Pipelines**
+* **GitHub Actions**
 
 ### 📡 Monitoring & Observability
 
-* 📈 **Prometheus**
-* 📊 **Grafana**
+* **Prometheus**
+* **Grafana**
 
 ### 🐧 Others
 
-* 🐧 **Linux**
-* 🔧 **Git / GitHub**
-* **Cloud & Platforms:** Azure
-* **Containers & Orchestration:** Docker, Kubernetes, Helm, ArgoCD
-* **Infrastructure as Code:** Terraform
-* **CI / CD:** Azure Pipelines, GitHub Actions
-* **Monitoring & Observability:** Prometheus, Grafana
-* **Other:** Linux, Git, GitHub
+* **Linux**
+* **Git & GitHub**
 
 ---
 
-## 💼 Signature Project — Telecom & Zero-Downtime Migration
+## 💼 Signature Project — Telecom & Zero‑Downtime Migration
 
-**Project:** Zero-downtime migration & deployment for a US-based telecom client
+### **Project:** Cloud‑Native Telecom Deployment & Zero‑Downtime Migration
 
-**Summary:**
+### **Summary**
 
-* Designed and provisioned infrastructure for a carrier-grade telecom application on Azure.
-* Deployed and integrated Nokia network functions (HSS/HLR, SDL, AUSF-UDM) as cloud-native network functions (CNF).
-* Implemented CI/CD pipelines and deployment automation to ensure zero downtime during cutover.
-* Performed integration testing, handover, and live traffic migration from legacy systems to the new CNF environment.
+* Designed and provisioned Azure infrastructure for a carrier‑grade telecom CNF environment.
+* Deployed Nokia network functions: **HSS/HLR, SDL, AUSF-UDM**.
+* Implemented CI/CD & GitOps automation to ensure seamless zero‑downtime cutover.
+* Executed integration testing, customer handover, and live traffic migration.
 
-**My responsibilities & achievements:**
+### **Responsibilities & Achievements**
 
-* End-to-end infrastructure provisioning (Terraform + Azure resources).
-* Containerized telecom components and created Kubernetes manifests/Helm charts.
-* Implemented GitOps-style deployment with ArgoCD for reliable rollouts and fast rollbacks.
-* Built Azure & GitHub Actions pipelines to automate build, test, and deploy stages.
-* Implemented monitoring (Prometheus + Grafana) and alerts for service-level visibility.
-* Executed traffic migration strategy to move production traffic with zero customer-impact.
+* End‑to‑end infra provisioning with **Terraform + Azure resources**.
+* Containerized telecom workloads and built **Helm charts & K8s manifests**.
+* GitOps‑based deployments using **ArgoCD** for reliable rollouts.
+* Created CI/CD pipelines using **Azure Pipelines & GitHub Actions**.
+* Implemented **Prometheus + Grafana** monitoring, alerts & dashboards.
+* Executed zero‑impact traffic migration strategy.
+
+**Tech Stack:** Azure, AKS, Docker, Kubernetes, Helm, ArgoCD, Terraform, Prometheus, Grafana, GitHub Actions, Azure Pipelines.
 
 ---
 
-## 📁 Projects & Repo Suggestions (what to add to GitHub)
+## 📁 Recommended GitHub Repositories to Add
 
-Create separate repos for each major area so recruiters can quickly scan your work:
+Create separate repos to showcase your expertise:
 
-1. `infra-azure-terraform` — Modular Terraform for VPC/network, AKS (or managed k8s), storage, IAM roles. Include `README.md`, module examples, and a `state` backend example (remote backend hints).
-2. `k8s-telecom-cnf` — Kubernetes manifests + Helm charts for the Nokia CNF components you deployed (HSS/HLR, SDL, AUSF-UDM). Include deployment strategy documentation and README with architecture diagrams.
-3. `ci-cd-pipelines` — Example Azure Pipelines + GitHub Actions workflows used for the project. Provide clear pipeline YAMLs and explanation for each stage (build, test, deploy, smoke tests).
-4. `monitoring-observability` — Prometheus and Grafana setup, alert rules, example dashboards, and runbook for incident response.
-5. `automation-scripts` — Useful bash / python scripts you wrote for automation, migration tasks, and integration testing.
+1. **infra-azure-terraform**
+   Modular Terraform (network, compute, AKS, storage, IAM) + README + architecture diagram.
+
+2. **k8s-telecom-cnf**
+   Kubernetes manifests/Helm charts for Nokia CNF components with deployment diagrams.
+
+3. **ci-cd-pipelines**
+   Azure Pipelines & GitHub Actions full pipeline YAML with explanations.
+
+4. **monitoring-observability**
+   Prometheus rules, Grafana dashboards, alert policies & runbooks.
+
+5. **automation-scripts**
+   Useful Bash/Python automation scripts used in infra, migration & testing.
 
 Each repo should include:
 
-* Clear README with one-line summary, architecture diagram, and how to run/test locally.
-* `LICENSE` (MIT/Apache) and `CONTRIBUTING.md` if you want external contributions.
-* `/.github/workflows/` for CI examples.
+* Clear README with architecture diagram
+* Example commands / how‑to‑run section
+* `/ .github/workflows/` for CI
+* License + contribution guidelines
 
+---
 
-
-## 📈 Recommended README Badges (paste to your profile README)
+## 📈 GitHub Stats
 
 ```
-![Pawan's GitHub stats][(https://github-readme-stats.vercel.app/api?username=pawangiri3&show_icons=true&theme=default](https://github.com/pawangiri3/pawangiri3/edit/main/README.md))
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawangiri3&layout=compact&theme=default)
+![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawangiri3&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawangiri3&layout=compact)
 ```
 
 ---
 
-## ✅ Quick Tips to Keep It Professional
+## 🎓 Certifications
 
-* Keep language concise and formal.
-* Use `architecture diagrams` (PNG/SVG) showing cloud, k8s clusters, and dataflow.
-* Add `reproducible examples` and `how-to` steps so recruiters can run things locally.
-* Add `release notes` or a short `project highlights` section for each repo.
-* Pin the 4–6 most relevant repos on your GitHub profile (infra, k8s, ci-cd, monitoring).
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/other/certified-kubernetes-administrator/certified-kubernetes-administrator-color.svg" width="180" title="Certified Kubernetes Administrator" />
+</p>
 
+* **CKA – Certified Kubernetes Administrator** (CNCF)
+* **Azure & DevOps Certifications (In-progress)**
 
+---
 
- 📬 Contact
+## 📬 Contact
 
-* LinkedIn: www.linkedin.com/in/pawan-kumar-09a74aa9
-* Email: pawangiri3@gmail.com
-
-
-
-
+**LinkedIn:** [https://www.linkedin.com/in/pawan-kumar-09a74aa9](https://www.linkedin.com/in/pawan-kumar-09a74aa9)
+**Email:** [pawangiri3@gmail.com](mailto:pawangiri3@gmail.com)
