@@ -4,12 +4,21 @@
 <h3 align="center">Senior DevOps / SRE Engineer | Cloud · Kubernetes · Terraform · Automation</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" title="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" title="Kubernetes" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" title="Terraform" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" title="Azure" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" title="Git" />
+  <!-- icons row (keeps consistent size & spacing) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" title="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" title="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="36" title="Helm" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="36" title="Terraform" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" title="Azure" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" title="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" width="36" title="ArgoCD" onerror="this.style.display='none'"/>
+  <!-- fallback ArgoCD badge if icon not available -->
+  <img src="https://img.shields.io/badge/ArgoCD-FF2D20?style=for-the-badge&logo=argo" height="28" alt="ArgoCD" />
+</p>
+
+<p align="center">
+  <strong>Docker</strong> · <strong>Kubernetes</strong> · <strong>Helm</strong> · <strong>ArgoCD</strong> · <strong>Terraform</strong> · <strong>Azure</strong> · <strong>Linux</strong> · <strong>Git</strong>
 </p>
 
 ---
