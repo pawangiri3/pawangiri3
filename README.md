@@ -1,3 +1,9 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/banner-dark.gif">
+    <img alt="Banner" src="./images/banner-light.gif">
+  </picture>
+</p>
 
 <h1 align="center">👋 Hi, I'm <b>Pawan Kumar</b></h1>
 <h3 align="center">Senior DevOps / SRE Engineer | Cloud · Kubernetes · Terraform · Automation</h3>
