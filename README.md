@@ -1,9 +1,5 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/banner-dark.gif">
-    <img alt="Banner" src="./images/banner-light.gif">
-  </picture>
-</p>
+![My Banner](https://camo.githubusercontent.com/fda294423a50d8b9efc470aa757e20c66310c291d31aa025c38556f02e68a063/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966)
+
 
 <h1 align="center">👋 Hi, I'm <b>Pawan Kumar</b></h1>
 <h3 align="center">Senior DevOps / SRE Engineer | Cloud · Kubernetes · Terraform · Automation</h3>
