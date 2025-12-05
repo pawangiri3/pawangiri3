@@ -1,4 +1,6 @@
-# Pawan Kumar — DevOps / SRE Engineer
+
+<h1 align="center">👋 Hi, I'm <b>Pawan Kumar</b></h1>
+<h3 align="center">Senior DevOps / SRE Engineer | Cloud · Kubernetes · Terraform · Automation</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" title="Docker" />
@@ -9,135 +11,120 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" title="Git" />
 </p>
 
-## 🚀 Profile Summary
+---
 
-DevOps Engineer with 9+ years of experience in cloud-native deployments, Kubernetes orchestration, infrastructure automation, and CI/CD engineering. Skilled in Azure, Terraform, Docker, ArgoCD, and telecom-grade CNF zero‑downtime migrations.
+## 🚀 **Profile Summary**
+
+DevOps / SRE Engineer with **9+ years of experience** in Cloud Infrastructure, Kubernetes, CI/CD, and Infrastructure Automation.  
+Expert in **Azure | Terraform | Kubernetes | GitOps | Cloud-native telecom CNF deployments**.  
+Passionate about designing scalable platforms and zero-downtime production systems.
 
 ---
 
-## 🔭 About Me
+## 🔭 **About Me**
 
-I architect, automate, and operate resilient cloud infrastructure and CI/CD pipelines for production systems.
-
-**Location:** India
-**Role:** DevOps / SRE Engineer
-**GitHub:** **pawangiri3**
-
----
-
-## 🛠️ Core Skills
-
-### ☁️ Cloud & Platforms
-
-* **Azure**
-
-### 🐳 Containers & Orchestration
-
-* **Docker**
-* **Kubernetes (K8s)**
-* **Helm**
-* **ArgoCD (GitOps)**
-
-### 🏗️ Infrastructure as Code
-
-* **Terraform**
-
-### 🔄 CI/CD
-
-* **Azure Pipelines**
-* **GitHub Actions**
-
-### 📡 Monitoring & Observability
-
-* **Prometheus**
-* **Grafana**
-
-### 🐧 Others
-
-* **Linux**
-* **Git & GitHub**
+- 🌍 **Location:** India  
+- 💼 **Role:** DevOps / SRE Engineer  
+- 🔧 **Experience:** Cloud Infra, Kubernetes, IaC, GitOps, Monitoring  
+- 💬 Ask me about **Terraform, Azure, AKS, CI/CD, GitOps, DevOps pipelines**  
+- 📁 **GitHub:** **pawangiri3**
 
 ---
 
-## 💼 Signature Project — Telecom & Zero‑Downtime Migration
+## 🛠️ **Core Skills**
 
-### **Project:** Cloud‑Native Telecom Deployment & Zero‑Downtime Migration
+### ☁️ Cloud & Platforms  
+- **Azure (AKS, Networking, Storage, IAM, Security)**  
 
-### **Summary**
+### 🐳 Containers & Orchestration  
+- **Docker | Kubernetes | Helm | ArgoCD (GitOps)**  
 
-* Designed and provisioned Azure infrastructure for a carrier‑grade telecom CNF environment.
-* Deployed Nokia network functions: **HSS/HLR, SDL, AUSF-UDM**.
-* Implemented CI/CD & GitOps automation to ensure seamless zero‑downtime cutover.
-* Executed integration testing, customer handover, and live traffic migration.
+### 🏗️ Infrastructure as Code  
+- **Terraform (Modular Infra, Environments, Remote State)**  
 
-### **Responsibilities & Achievements**
+### 🔄 CI/CD  
+- **Azure DevOps Pipelines | GitHub Actions**  
 
-* End‑to‑end infra provisioning with **Terraform + Azure resources**.
-* Containerized telecom workloads and built **Helm charts & K8s manifests**.
-* GitOps‑based deployments using **ArgoCD** for reliable rollouts.
-* Created CI/CD pipelines using **Azure Pipelines & GitHub Actions**.
-* Implemented **Prometheus + Grafana** monitoring, alerts & dashboards.
-* Executed zero‑impact traffic migration strategy.
+### 📈 Monitoring & Observability  
+- **Prometheus | Grafana | Alerting | Dashboards**  
 
-**Tech Stack:** Azure, AKS, Docker, Kubernetes, Helm, ArgoCD, Terraform, Prometheus, Grafana, GitHub Actions, Azure Pipelines.
+### 🐧 Other Skills  
+- **Linux | Git | Bash/Python Automation**  
 
 ---
 
-## 📁 Recommended GitHub Repositories to Add
+# 💼 **Signature Project — Telecom CNF Cloud Deployment with Zero-Downtime Migration**
 
-Create separate repos to showcase your expertise:
+### **Project:** Cloud-Native Telecom Platform for Carrier-Grade Network Functions
 
-1. **infra-azure-terraform**
-   Modular Terraform (network, compute, AKS, storage, IAM) + README + architecture diagram.
+### 🔹 **Key Achievements**
 
-2. **k8s-telecom-cnf**
-   Kubernetes manifests/Helm charts for Nokia CNF components with deployment diagrams.
+- Designed & provisioned **Azure infrastructure** for large-scale CNF workloads.  
+- Deployed Nokia Network Functions: **HSS/HLR, SDL, AUSF-UDM**.  
+- Implemented **GitOps automation with ArgoCD** for controlled rollouts.  
+- Achieved **zero-downtime traffic migration** for live production systems.  
+- Built enterprise CI/CD pipelines (Azure DevOps + GitHub Actions).  
+- Developed **Helm charts & Kubernetes manifests** for telecom workloads.  
+- Configured **Prometheus + Grafana** monitoring with alerting & dashboards.
 
-3. **ci-cd-pipelines**
-   Azure Pipelines & GitHub Actions full pipeline YAML with explanations.
+### **Tech Stack**
 
-4. **monitoring-observability**
-   Prometheus rules, Grafana dashboards, alert policies & runbooks.
+`Azure · AKS · Docker · Kubernetes · Helm · ArgoCD · Terraform · GitHub Actions · Azure Pipelines · Prometheus · Grafana`
 
-5. **automation-scripts**
-   Useful Bash/Python automation scripts used in infra, migration & testing.
+---
+
+# 📁 **Recommended GitHub Repos to Publish**
+
+Create these repos to make your profile stand out like a real DevOps engineer:
+
+| Repository | Purpose |
+|-----------|----------|
+| **infra-azure-terraform** | Modular reusable Terraform infra + architecture |
+| **k8s-telecom-cnf** | Helm charts & manifests for telecom CNF workloads |
+| **ci-cd-pipelines** | End-to-end Azure DevOps + GitHub Actions pipelines |
+| **monitoring-observability** | Prometheus alerts, Grafana dashboards |
+| **automation-scripts** | Bash/Python automation scripts |
 
 Each repo should include:
 
-* Clear README with architecture diagram
-* Example commands / how‑to‑run section
-* `/ .github/workflows/` for CI
-* License + contribution guidelines
+✔ Architecture diagram  
+✔ README with usage  
+✔ CI workflow under `.github/workflows/`  
+✔ Clear folder structure  
 
 ---
 
-## 📈 GitHub Stats
-
-```
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawangiri3&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawangiri3&layout=compact)
-```
-
----
-
-## 🎓 Certifications
+# 📊 **GitHub Stats**
 
 <p align="center">
-  <a href="https://www.credly.com/badges/742b47a7-b541-443f-8594-808ce1fac53a" target="_blank">
-    <img src="https://www.credly.com/badges/742b47a7-b541-443f-8594-808ce1fac53a/public_url" width="180" title="Credly Certification Badge" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=pawangiri3&show_icons=true&theme=default" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawangiri3" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cncf/artwork/master/other/certified-kubernetes-administrator/certified-kubernetes-administrator-color.svg" width="180" title="Certified Kubernetes Administrator" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawangiri3&layout=compact" height="150" />
 </p>
-
-* **CKA – Certified Kubernetes Administrator** (CNCF)
-* **Azure & DevOps Certifications (In-progress)**
 
 ---
 
-## 📬 Contact
+# 🎓 **Certifications**
 
-**LinkedIn:** [https://www.linkedin.com/in/pawan-kumar-09a74aa9](https://www.linkedin.com/in/pawan-kumar-09a74aa9)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/other/certified-kubernetes-administrator/certified-kubernetes-administrator-color.svg" width="200" />
+</p>
+
+**✔ CKA – Certified Kubernetes Administrator (CNCF)**  
+**✔ Azure & DevOps Certifications (In-progress)**  
+
+---
+
+# 📬 **Contact**
+
+**LinkedIn:** https://www.linkedin.com/in/pawan-kumar-09a74aa9  
 **Email:** [pawangiri3@gmail.com](mailto:pawangiri3@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pawangiri3&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
